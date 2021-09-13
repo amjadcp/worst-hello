@@ -10,5 +10,5 @@ Needed Packages
 
 put terminal in full-screen !!!
 
-<img src="hellooWorld" alt="Example">
+<img src="helloWorld.png" alt="Example">
 
